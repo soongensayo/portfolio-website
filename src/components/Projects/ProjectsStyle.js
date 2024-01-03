@@ -47,7 +47,8 @@ export const Desc = styled.div`
     @media (max-width: 768px) {
         margin-top: 12px;
         font-size: 16px;
-        padding: 20px 10px;
+        padding: 10px 30px;
+        text-align: justify;
     }
 `;
 

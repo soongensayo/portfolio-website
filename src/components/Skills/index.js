@@ -79,7 +79,7 @@ const Skill = styled.div`
 `
 
 const SkillTitle = styled.h2`
-  font-size: 28px;
+  font-size: 21px;
   font-weight: 600;
   color: ${({ theme }) => theme.text_secondary};
   margin-bottom: 20px;

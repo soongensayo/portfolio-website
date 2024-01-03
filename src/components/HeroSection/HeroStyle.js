@@ -156,17 +156,21 @@ export const SubTitle = styled.div`
   margin-bottom: 42px;
   color: ${({ theme }) => theme.text_primary + 95};
   text-align: justify;
+  padding: 10px;
+  
 
 
   @media (max-width: 960px) {
     text-align: center;
     text-align: justify;
+    padding: 0px 10px;
   }
 
   @media (max-width: 640px) {
     font-size: 16px;
     line-height: 32px;
     text-align: justify;
+    padding: 0px 10px;
   }
 `;
 

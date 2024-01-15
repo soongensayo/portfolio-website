@@ -38,18 +38,18 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-             <Span>soongen</Span>
+            <Span>soongen</Span>
           </a>
 
           <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.spotify} target="display"><SpotifyIcon /></SocialMediaIcon>
-        </SocialMediaIcons>
+            <SocialMediaIcon href={Bio.linkedin} target="_blank"><LinkedInIcon /></SocialMediaIcon>
+            <SocialMediaIcon href={Bio.insta} target="_blank"><InstagramIcon /></SocialMediaIcon>
+            <SocialMediaIcon href={Bio.spotify} target="_blank"><SpotifyIcon /></SocialMediaIcon>
+          </SocialMediaIcons>
         </NavLogo>
 
-        
-        
+
+
         <NavItems>
           <NavLink href="#about">About</NavLink>
           <NavLink href='#skills'>Skills</NavLink>

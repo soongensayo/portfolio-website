@@ -187,7 +187,7 @@ export const projects = [
       "Open AI",
     ],
     category: "mobile app",
-    webapp: "mailto:e0959972@u.nus.edu",
+    webapp: "https://www.pastures.app",
    
   },
   {
@@ -199,7 +199,7 @@ export const projects = [
     image:
       "https://i.postimg.cc/CKRkjc9W/telebots.png",
     tags: ["Python", "Tailwind", "tRPC", "React", "Next.js"],
-    webapp: "mailto:e0959972@u.nus.edu",
+    webapp: "mailto:soongen@u.nus.edu",
   },
   {
     id: 0,

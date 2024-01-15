@@ -187,7 +187,7 @@ const index = ({ openModal, setOpenModal }) => {
 
     const getButtonText = (title) => {
         if (title === 'Pastures') {
-          return 'Reach out to me if you wish to find out more';
+          return 'Showcase Website';
         } else if (title==="Telebots for Christ") {
             return 'Reach out to me if you wish to find out more';
         } else if (title==="Church Involvements") {

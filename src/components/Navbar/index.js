@@ -42,9 +42,9 @@ const Navbar = () => {
           </a>
 
           <SocialMediaIcons>
-            <SocialMediaIcon href={Bio.linkedin} target="_blank"><LinkedInIcon /></SocialMediaIcon>
-            <SocialMediaIcon href={Bio.insta} target="_blank"><InstagramIcon /></SocialMediaIcon>
-            <SocialMediaIcon href={Bio.spotify} target="_blank"><SpotifyIcon /></SocialMediaIcon>
+            <SocialMediaIcon href={Bio.linkedin} ><LinkedInIcon /></SocialMediaIcon>
+            <SocialMediaIcon href={Bio.insta} ><InstagramIcon /></SocialMediaIcon>
+            <SocialMediaIcon href={Bio.spotify} ><SpotifyIcon /></SocialMediaIcon>
           </SocialMediaIcons>
         </NavLogo>
 

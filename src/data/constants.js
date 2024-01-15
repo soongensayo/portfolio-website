@@ -16,7 +16,8 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/soongen/",
   insta: "https://www.instagram.com/soongensayo/",
   youtube: "https://www.youtube.com/@soong6482/",
-  spotify: "http://bit.ly/3NDJKDB"
+  spotify: "http://bit.ly/3NDJKDB",
+  github: "https://github.com/soongensayo",
 };
 
 export const skills = [

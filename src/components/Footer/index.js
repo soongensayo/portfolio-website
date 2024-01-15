@@ -3,6 +3,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import YoutubeIcon from '@mui/icons-material/YouTube';
 import SpotifyIcon from '@mui/icons-material/LibraryMusic';
+import GithubIcon from '@mui/icons-material/GitHub';
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -94,6 +95,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.youtube} target="display"><YoutubeIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.spotify} target="display"><SpotifyIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.github} target="display"><GithubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
 
       </FooterWrapper>

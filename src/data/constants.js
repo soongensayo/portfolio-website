@@ -116,7 +116,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.mindef.gov.sg/web/wcm/connect/army/c66c2bc8-5dab-49a3-a7d3-d58579e90dd7/SAF+Ammunition+Command.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG3000-c66c2bc8-5dab-49a3-a7d3-d58579e90dd7-nPbgJAE",
+    img: "https://i.postimg.cc/9MvZZQ5N/SAFAC-logo.png",
     role: "Personal Assistant",
     company: "Singapore Army Force Ammunition Command (SAFAC)",
     date: "Mar 2020 - Dec 2021",
@@ -151,7 +151,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/NUS_coat_of_arms.svg/1200px-NUS_coat_of_arms.svg.png",
+    img: "https://i.postimg.cc/J02gbJ4C/NUS-logo-01.png",
     school: "National University of Singapore",
     date: "Aug 2022 - May 2027",
     grade: "4.6 GPA",
@@ -160,7 +160,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://upload.wikimedia.org/wikipedia/en/f/fc/Anglo-Chinese_School_Crest.png",
+    img: "https://i.postimg.cc/3RrbV9kH/ACS-logo-01.png",
     school: "Anglo-Chinese School (Independent)",
     date: "Jan 2014 - Dec 2019",
     grade: "43/45 points",

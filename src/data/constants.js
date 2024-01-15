@@ -178,7 +178,7 @@ export const projects = [
     description:
     "A faith-based startup idea in the works. Developed a Minimal Viable Product (in the form of a mobile application) revolving around 'Mindfulness' and journalling, with novel features that leverage on OpenAI's APIs. End-to-end mobile app development and feature integration mainly using React Native, and Firebase for data storage.",
     image:
-      "https://i.ibb.co/KWwD5dk/pastures.png",
+      "https://i.postimg.cc/wxbJ4bpH/pastures-showcase.png",
     tags: [
       "React Native",
       "Javascript",

@@ -41,11 +41,7 @@ const Navbar = () => {
             <Span>soongen</Span>
           </a>
 
-          <SocialMediaIcons>
-            <SocialMediaIcon href={Bio.linkedin} ><LinkedInIcon /></SocialMediaIcon>
-            <SocialMediaIcon href={Bio.insta} ><InstagramIcon /></SocialMediaIcon>
-            <SocialMediaIcon href={Bio.spotify} ><SpotifyIcon /></SocialMediaIcon>
-          </SocialMediaIcons>
+          
         </NavLogo>
 
 

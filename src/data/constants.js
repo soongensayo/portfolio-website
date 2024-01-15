@@ -156,7 +156,7 @@ export const education = [
     school: "National University of Singapore",
     date: "Aug 2022 - May 2027",
     grade: "4.6 GPA",
-    desc: "I am currently enrolled in a Double Degree Programme in Computer Engineering and Business Administration (with a minor in Quantitative Finance). I have completed 3 semesters and have a GPA of 4.6. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, among others.",
+    desc: "I am currently enrolled in a Double Degree Programme in Computer Engineering and Business Administration (with a minor in Quantitative Finance). I have completed 3 semesters and have a GPA of 4.6. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, among others. Recipient of NUS Merit Scholarship.",
     degree: "Bachelor of Engineering (Computer Engineering) & Bachelor of Business Administration",
   },
   {
